@@ -102,5 +102,7 @@ public class login extends JFrame implements ActionListener {
 			t.setVisible(true);
 			this.dispose();
 		}
+		
+		System.out.println("Heelo");
 	}
 }
